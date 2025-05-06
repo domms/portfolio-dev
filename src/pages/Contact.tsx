@@ -27,6 +27,7 @@ export default function ContactSection() {
         action="https://formspree.io/f/meoggwrw"
         method="POST"
         onSubmit={() => setSubmitted(true)}
+        target="_blank"
       >
         <Stack spacing={2}>
           <TextField label="Your Name" name="name" required fullWidth />
