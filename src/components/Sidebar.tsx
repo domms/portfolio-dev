@@ -105,8 +105,8 @@ export default function Sidebar() {
             gap: 2,
           }}
         >
-          <Avatar src="/assets/profile.jpg" sx={{ width: 80, height: 80 }} />
-          <Typography variant="h6">Your Name</Typography>
+          <Avatar src="/assets/IMG_5366.png" sx={{ width: 80, height: 80 }} />
+          <Typography variant="h6">Dominic Sankar</Typography>
           <Divider sx={{ width: "100%", my: 2 }} />
           <NavLinks />
         </Box>
