@@ -4,7 +4,7 @@ export default function HomeSection() {
   return (
     <Box sx={{ py: 8 }}>
       <Typography variant="h3" gutterBottom>
-        {`<Hello! />`}
+        {`Hello!`}
       </Typography>
       <Typography variant="body1" color="text.secondary">
         I’m a full-stack developer with a strong focus on scalable web

@@ -27,7 +27,7 @@ export const projects = [
       githubLink: ''
     },
     {
-      title: 'ToolBox Auto hide by OpsAngels',
+      title: 'ToolBox by OpsAngels',
       description: 'AI assisted diagram summary generator.',
       link: 'https://toolbox.opsangels.com/',
       image: '/assets/toolbox.JPG',

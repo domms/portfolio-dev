@@ -28,7 +28,7 @@ export default function SkillsFocusSection() {
   return (
     <Box sx={{ py: 3 }}>
       <Typography variant="h4" gutterBottom>
-        {`<Skills & Focus />`}
+        {`Skills & Focus`}
       </Typography>
 
       {/* Skills */}

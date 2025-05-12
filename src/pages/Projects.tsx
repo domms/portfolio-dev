@@ -6,7 +6,7 @@ export default function ProjectsSection() {
   return (
     <Box sx={{ py: 8 }}>
       <Typography variant="h4" gutterBottom>
-        {`<Projects & Contributions />`}
+        {`Projects & Contributions`}
       </Typography>
 
       <Paper
